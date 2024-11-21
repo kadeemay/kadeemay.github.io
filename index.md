@@ -11,8 +11,8 @@ title: Personal Website
 
 ## Contact
 
-- [LinkedIn]([https://linkedin.com/in/kadeewheeler](https://www.linkedin.com/in/kadee-wheeler-661477271/))  
-- [GitHub]([https://github.com/kadeewheeler](https://github.com/kadeemay))  
+- [LinkedIn](https://www.linkedin.com/in/kadee-wheeler-661477271/)  
+- [GitHub](https://github.com/kadeemay)  
 
 ---
 
