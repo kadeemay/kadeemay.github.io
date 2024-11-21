@@ -5,7 +5,7 @@ title: Personal Website
 
 # Kadee Wheeler
 
-**Computer Science Student | Passionate Learner | Problem Solver**
+**Computer Science Student**
 
 ---
 
