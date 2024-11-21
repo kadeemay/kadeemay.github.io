@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Kadee Wheeler - Personal Website
+title: Personal Website
 ---
 
 # Kadee Wheeler
@@ -16,12 +16,6 @@ title: Kadee Wheeler - Personal Website
 
 ---
 
-## About Me
-
-Hi! I'm Kadee, a software engineer with expertise in **C++**, **Python**, and **Swift**. I enjoy tackling challenging problems and building innovative solutions.
-
----
-
 ## Technical Skills
 
 - **Languages:** C++, Python, Swift, C, JavaScript   
@@ -33,7 +27,14 @@ Hi! I'm Kadee, a software engineer with expertise in **C++**, **Python**, and **
 
 ## Education
 
-**Bachelor's Degree in Computer Science, XYZ University**
+### **Bachelor of Science in Computer Science**  
+University of Oregon, Eugene, Oregon  
+**Expected Graduation:** June 2026 (Junior Year)
+
+- Relevant Coursework: Computer Organization, Software Engineering, Data Stuctures  
+- Current GPA: 3.69 
+- Involvement: Member of Women in Computer Science (WiCS)
+
 
 ---
 
