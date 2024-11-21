@@ -36,12 +36,11 @@ University of Oregon, Eugene, Oregon
 - Current GPA: 3.69 
 - Involvement: Member of Women in Computer Science (WiCS)
 
-
 ---
 
 ## Project
 
-- [**ToDO App:**]([https://github.com/kadeewheeler/project2](https://github.com/kadeemay/ToDoList)) A ToDo list app in Swift and SwiftUI using Xocde.  
+- [**ToDo App:**](https://github.com/kadeemay/ToDoList) A ToDo list app in Swift and SwiftUI using Xcode.  
 
 ---
 
