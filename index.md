@@ -11,8 +11,8 @@ title: Personal Website
 
 ## Contact
 
-- [LinkedIn](https://linkedin.com/in/kadeewheeler)  
-- [GitHub](https://github.com/kadeewheeler)  
+- [LinkedIn]([https://linkedin.com/in/kadeewheeler](https://www.linkedin.com/in/kadee-wheeler-661477271/))  
+- [GitHub]([https://github.com/kadeewheeler](https://github.com/kadeemay))  
 
 ---
 
@@ -28,6 +28,7 @@ title: Personal Website
 ## Education
 
 ### **Bachelor of Science in Computer Science**  
+**Minor in Mathematics**  
 University of Oregon, Eugene, Oregon  
 **Expected Graduation:** June 2026 (Junior Year)
 
@@ -40,7 +41,7 @@ University of Oregon, Eugene, Oregon
 
 ## Project
 
-- [**ToDO App:**](https://github.com/kadeewheeler/project2) A ToDo list app in Swift and SwiftUI using Xocde.  
+- [**ToDO App:**]([https://github.com/kadeewheeler/project2](https://github.com/kadeemay/ToDoList)) A ToDo list app in Swift and SwiftUI using Xocde.  
 
 ---
 
