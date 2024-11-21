@@ -1,1 +1,6 @@
-theme: jekyll-theme-minimal
+title: Kadee Wheeler - Personal Website
+description: Personal website showcasing my technical skills, education, and projects.
+author: Kadee Wheeler
+theme: minima
+exclude:
+  - README.md
